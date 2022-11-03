@@ -1,4 +1,4 @@
-#**<font size = 10 color = 'gold'>  ToDo 9 - Resilia* *Educação**
+#**<font size = 10 color = 'gold'>  ToDo 9 - Resilia Educação**
 
 ## **Pessoas Deixando a Empresa.**
 
@@ -8,7 +8,7 @@ O gráfico de bolhas a seguir é muito conhecido e foi retirado do livro: Storyt
 
 
 
-###🎯 Objetivo
+##🎯 Objetivo
   
 Para esse gráfico temos a seguinte situação: 
 
