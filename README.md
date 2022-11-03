@@ -1,8 +1,8 @@
-#**<font size = 10 color = 'gold'>  ToDo 9 - Resilia Educação**
+#**<font size = 10 color = 'gold'>  ToDo 9 - Resilia* *Educação**
 
 ## **Pessoas Deixando a Empresa.**
 
-O gráfico de bolhas a seguir é muito conhecido e foi retirado do livro: Storytelling with Data: Let's Practice!.  As situações propostas no livro podem ser usadas ​​para nos ajudar a entender e praticar várias lições relacionadas à comunicação com dados.
+O gráfico de bolhas a seguir é muito conhecido e foi retirado do livro: Storytelling with Data: Let's Practice!. As situações propostas no livro podem ser usadas ​​para nos ajudar a entender e praticar várias lições relacionadas à comunicação com dados.
 
 ![Gráfico](https://i.ibb.co/mBn5mtj/image.png)
 
